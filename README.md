@@ -22,3 +22,5 @@ __*negrito e italico misturados*__
 - [x] tomar banho
 - [ ] vestir a roupa
 - [ ] comprar o pao
+### colocando imagem
+![uma imagem de teste] (https://www.bing.com/images/search?q=imagens%20media&FORM=IQFRBA&id=48F700E582459CC05434D6A5AB041260082E4A2E)
