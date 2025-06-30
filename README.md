@@ -26,3 +26,10 @@ __*negrito e italico misturados*__
 ![minha imagem](https://github.com/user-attachments/assets/56a3bcae-6f75-40aa-aa98-eff349f21569)
 ### colocando links
 [musica do youtube](https://youtu.be/EJpFPJRUSn8?si=DsNNcpv5fCA4rLqf)
+### colocando tabelas
+numero|nome|idade|time
+---|---|---|---
+1|alex|19|ceara
+2|amorim|22|flamengo
+3|ferreira|35|ferreira
+terminou a tabela
