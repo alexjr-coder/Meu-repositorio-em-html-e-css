@@ -32,4 +32,9 @@ numero|nome|idade|time
 1|alex|19|ceara
 2|amorim|22|flamengo
 3|ferreira|35|ferreira
-terminou a tabela
+### colocando comandos
+no html o comando `style` pode mudar cor
+### colocando emoi
+🐒
+🥇
+💠
